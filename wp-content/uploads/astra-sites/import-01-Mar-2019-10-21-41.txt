@@ -1,0 +1,206 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.2.9
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 128M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 300
+Max Upload Size 	: 128 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 10:44:33 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 10:44:34 UTC
+
+---
+
+2. Importing "XML"  - 10:44:39 UTC
+Failed to import astra-site-page-builder Beaver Builder
+Invalid taxonomy.
+Failed to import astra-site-page-builder Brizy
+Invalid taxonomy.
+Failed to import astra-site-page-builder Elementor
+Invalid taxonomy.
+Failed to import astra-sites-type Free
+Invalid taxonomy.
+Failed to import astra-sites-type Premium
+Invalid taxonomy.
+Media "favicon" already exists.
+Media "student-1" already exists.
+Media "cart" already exists.
+Media "editing" already exists.
+Media "support" already exists.
+Media "coding-1" already exists.
+Media "share" already exists.
+Media "teammate1" already exists.
+Media "teammate3" already exists.
+Media "teammate2" already exists.
+Media "home-banner" already exists.
+Media "client1" already exists.
+Media "client2" already exists.
+Media "client3" already exists.
+Media "client4" already exists.
+Media "client5" already exists.
+Media "client6" already exists.
+Media "marketing" already exists.
+Media "why-choose-us" already exists.
+Media "award-icon" already exists.
+Media "heart-icon" already exists.
+Media "projects-icon" already exists.
+Media "code-lines-icon" already exists.
+Media "about-us-bg" already exists.
+Media "proj3" already exists.
+Media "proj7" already exists.
+Media "proj6" already exists.
+Media "proj5" already exists.
+Media "space-logo-free-img" already exists.
+Media "space-logo-free-img@2x" already exists.
+Media "spacewhite-logo-free-img" already exists.
+Media "space-facebook-yoast-free-img" already exists.
+Media "blog02-free-img" already exists.
+Media "pic02-free-img" already exists.
+Media "blog03-free-img" already exists.
+Media "pic03-free-img" already exists.
+Media "blog04-free-img" already exists.
+Media "pic04-free-img" already exists.
+Media "blog05-free-img" already exists.
+Media "pic05-free-img" already exists.
+Imported "Home" (Page)
+Post 2 remapped to 2
+Imported "About" (Page)
+Post 19 remapped to 971
+Custom CSS "astra" already exists.
+Template "Elementor Footer" already exists.
+Template "Team" already exists.
+Template "Footer Contact CTA" already exists.
+Template "Page Head" already exists.
+Template "Services" already exists.
+Template "Customers" already exists.
+Custom CSS "astra-theme-child" already exists.
+Imported "" (Navigation Menu Item)
+Post 724 remapped to 724
+Processing menu item post_type
+Imported "" (Navigation Menu Item)
+Post 725 remapped to 725
+Processing menu item post_type
+Imported "" (Navigation Menu Item)
+Post 726 remapped to 726
+Processing menu item post_type
+Menu item 19 mapped to 971
+Imported "" (Navigation Menu Item)
+Post 727 remapped to 727
+Processing menu item post_type
+Menu item 2 mapped to 2
+Media "blog06-free-img" already exists.
+Media "pic06-free-img" already exists.
+Media "blog07-free-img" already exists.
+Media "pic07-free-img" already exists.
+Media "blog08-free-img" already exists.
+Imported "" (Navigation Menu Item)
+Post 959 remapped to 959
+Processing menu item post_type
+Imported "Services" (Page)
+Post 21 remapped to 972
+Imported "Contact" (Page)
+Post 25 remapped to 25
+Imported "Contact Form 1" (Contact Form)
+Post 526 remapped to 973
+Imported "Blog" (Page)
+Post 828 remapped to 828
+Post "Web animation" already exists.
+Post "More adventurous colours" already exists.
+Post "Standardisation between design tools" already exists.
+Post "Playful illustration" already exists.
+Post "Marketing" already exists.
+Post "Clean Coder Blog" already exists.
+Running post-processing for post 2
+Could not find the author for "Home" (post #2)
+Post 2 was imported with author "harshadd", but could not be found
+Post 2 was marked for post-processing, but none was required.
+Running post-processing for post 971
+Could not find the author for "About" (post #971)
+Post 971 was imported with author "harshadd", but could not be found
+Post 971 was marked for post-processing, but none was required.
+Running post-processing for post 724
+Could not find the author for "" (post #724)
+Post 724 was imported with author "harshadd", but could not be found
+Post 724 was marked for post-processing, but none was required.
+Running post-processing for post 725
+Could not find the author for "" (post #725)
+Post 725 was imported with author "harshadd", but could not be found
+Post 725 was marked for post-processing, but none was required.
+Running post-processing for post 726
+Could not find the author for "" (post #726)
+Post 726 was imported with author "harshadd", but could not be found
+Post 726 was marked for post-processing, but none was required.
+Running post-processing for post 727
+Could not find the author for "" (post #727)
+Post 727 was imported with author "harshadd", but could not be found
+Post 727 was marked for post-processing, but none was required.
+Running post-processing for post 959
+Could not find the author for "" (post #959)
+Post 959 was imported with author "satishk", but could not be found
+Post 959 was marked for post-processing, but none was required.
+Running post-processing for post 972
+Could not find the author for "Services" (post #972)
+Post 972 was imported with author "harshadd", but could not be found
+Post 972 was marked for post-processing, but none was required.
+Running post-processing for post 25
+Could not find the author for "Contact" (post #25)
+Post 25 was imported with author "harshadd", but could not be found
+Post 25 was marked for post-processing, but none was required.
+Running post-processing for post 973
+Could not find the author for "Contact Form 1" (post #973)
+Post 973 was imported with author "harshadd", but could not be found
+Post 973 was marked for post-processing, but none was required.
+Running post-processing for post 828
+Could not find the author for "Blog" (post #828)
+Post 828 was imported with author "sonalib", but could not be found
+Post 828 was marked for post-processing, but none was required.
+
+---
+
+3. Imported "Site Options"  - 10:44:57 UTC
+
+---
+
+4. Importing "Widgets"  - 10:45:02 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+Sidebar: advanced-footer-widget-1
+Widget: "Image" - Imported
+Widget: "Text" - Widget already exists
+Widget: "Astra: Social Profiles" - Widget already exists
+Sidebar: advanced-footer-widget-2
+Widget: "Text" - Widget already exists
+Widget: "Astra: List Icons" - Widget already exists
+Sidebar: advanced-footer-widget-3
+Widget: "Text" - Widget already exists
+Widget: "Astra: List Icons" - Widget already exists
+Sidebar: advanced-footer-widget-4
+Widget: "Text" - Widget already exists
+Widget: "Astra: List Icons" - Widget already exists
+
+---
+
+Import Complete!  - 10:45:05 UTC
